@@ -1,9 +1,9 @@
 # interntaskmusix
-Intern task(Musix) website using ReactJs
+    Intern task(Musix) website using ReactJs
 
 ## Install Dependencies
-  npm i
+    npm i
 ## Start App
-  npm start
-## Heroku
-  https://interntaskmusix.herokuapp.com/
+    npm start
+## Heroku Link
+     https://interntaskmusix.herokuapp.com/
