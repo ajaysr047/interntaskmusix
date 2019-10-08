@@ -1,5 +1,5 @@
 # interntaskmusix
-   Intern task(Musix) website using ReactJs
+   Intern task(Musix) website using ReactJs + Material-Ui
 
 ## Install Dependencies
     npm i
