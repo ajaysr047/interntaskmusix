@@ -7,3 +7,7 @@
     npm start
 ## Heroku Link
    https://interntaskmusix.herokuapp.com/
+
+## Components
+      Timer
+      Product Display Card
